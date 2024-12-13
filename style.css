@@ -3,9 +3,17 @@
 }
 
 .wrapper {
-    max-width: 900px;
+    max-width: 800px;
 }
 
 .box1 {
+    text-align: center;
+}
+
+ul, li, ol {
     background-color: goldenrod;
+}
+
+p {
+    color: orangered;
 }
