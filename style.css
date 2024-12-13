@@ -1,0 +1,11 @@
+* {
+    background-color: lightgray;
+}
+
+.wrapper {
+    max-width: 900px;
+}
+
+.box1 {
+    background-color: goldenrod;
+}
