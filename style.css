@@ -18,8 +18,15 @@ ul, li, ol {
 
 p {
     color: orangered;
+    padding: 8px;
+    margin: 8px;
+}
+
+ul {
+    padding: 10px;
 }
 
 li {
-
+    padding: 8px;
+    margin: 10px;
 }
