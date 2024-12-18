@@ -36,3 +36,7 @@ ol {
     padding: 8px;
     margin: 10px;
 }
+
+img {
+    border-radius: 10px;
+}
