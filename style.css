@@ -1,5 +1,6 @@
 * {
     background-color: lightgray;
+    box-sizing: border-box;
 }
 
 .wrapper {
@@ -17,4 +18,8 @@ ul, li, ol {
 
 p {
     color: orangered;
+}
+
+li {
+
 }
